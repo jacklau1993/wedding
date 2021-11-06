@@ -123,7 +123,11 @@ h3 {
   height: 250px;
   width: 400px;
 }
-
+@media (max-width: 480px) {
+  .img-event {
+    width: 345px;
+  }
+}
 /* Couple Friends Style  */
 .ww-couple-friends .carousel {
   padding: 40px 0;
