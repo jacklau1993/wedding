@@ -125,7 +125,7 @@ h3 {
 }
 @media (max-width: 375px) {
   .img-event {
-    width: 350px;
+    width: 100%;
   }
 }
 /* Couple Friends Style  */
